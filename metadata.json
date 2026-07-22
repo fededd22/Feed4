@@ -1,0 +1,6 @@
+{
+  "name": "V2Ray VLESS Server Dashboard",
+  "description": "A high-performance V2Ray VLESS WebSocket server and management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
